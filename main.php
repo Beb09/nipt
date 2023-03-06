@@ -9,7 +9,7 @@ require_once("db.php");
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>APM - Home</title>
+  <title>NIPT - Home</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -40,7 +40,7 @@ require_once("db.php");
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini">Everdi</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><img src="img/logo.png" height="52" width="148" /></span>
+      <span class="logo-lg"></span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -77,7 +77,7 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center text-40 index-head">
-            <h1>Welcome to Auckland Property Management</h1>
+            <h1>Welcome to National Institute of Professional Training</h1>
             <p></p>
             <p><a class="btn btn-info btn-lg" href="review.php" role="button">Enquire Now</a></p>
           </div>
@@ -93,7 +93,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2019 <a href="#"> Auckland Property Management</a>.</strong> Developed by Romy Mua Tuuau. All rights reserved. 
+      <strong>Copyright &copy; 2023 <a href="#"> Auckland Property Management</a>.</strong>. All rights reserved. 
     </div>
   </footer>
   <!-- /.control-sidebar -->

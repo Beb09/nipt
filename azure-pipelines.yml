@@ -20,6 +20,6 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
+    PathtoPublish: '$(System.DefaultWorkingDirectory)/_Beb09_nipt'
+    ArtifactName: 'Bebs'
     publishLocation: 'Container'
